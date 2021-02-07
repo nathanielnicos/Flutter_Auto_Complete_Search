@@ -1,0 +1,86 @@
+{
+  "movies": [
+    {
+      "title": "Black Widow",
+      "year": "2021",
+      "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/41/Black_Widow_November_6_Poster.jpg/revision/latest/scale-to-width-down/619?cb=20200403193641"
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": "2021",
+      "url": null
+    },
+    {
+      "title": "Eternals",
+      "year": "2021",
+      "url": null
+    },
+    {
+      "title": "Spider-Man 3",
+      "year": "2021",
+      "url": null
+    },
+    {
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": "2022",
+      "url": null
+    },
+    {
+      "title": "Thor: Love and Thunder",
+      "year": "2022",
+      "url": null
+    },
+    {
+      "title": "Black Panther II",
+      "year": "2022",
+      "url": null
+    },
+    {
+      "title": "Captain Marvel 2",
+      "year": "2022",
+      "url": null
+    }
+  ],
+  "series": [
+    {
+      "title": "WandaVision",
+      "year": "2021",
+      "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c2/WandaVision_Poster_2.jpg/revision/latest/scale-to-width-down/620?cb=20201212215523"
+    },
+    {
+      "title": "The Falcon and the Winter Soldier",
+      "year": "2021",
+      "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/95/TF%26TWS_Poster.jpg/revision/latest/scale-to-width-down/620?cb=20201211004730"
+    },
+    {
+      "title": "Loki",
+      "year": "2021",
+      "url": null
+    },
+    {
+      "title": "What If...?",
+      "year": "2021",
+      "url": null
+    },
+    {
+      "title": "Ms. Marvel",
+      "year": "2021",
+      "url": null
+    },
+    {
+      "title": "Hawkeye",
+      "year": "2021",
+      "url": null
+    },
+    {
+      "title": "Moon Knight",
+      "year": "2022",
+      "url": null
+    },
+    {
+      "title": "She-Hulk",
+      "year": "2022",
+      "url": null
+    }
+  ]
+}
